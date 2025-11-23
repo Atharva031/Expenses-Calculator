@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Daily_Expenses_Calculator",
+            "request": "launch",
+            "mainClass": "Daily_Expenses_Calculator",
+            "projectName": "Daily_Expenses_Calculator_eeb99eb1"
+        },
+        {
+            "name": "Python Package: testProgram",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "testProgram"
+        }
+    ]
+}
